@@ -36,9 +36,6 @@ This is a simple URL shortener application built using [Streamlit](https://strea
 
 3. Enter a URL in the input field and click the "Shorten URL" button to generate a shortened URL.  
 
-## Example  
-
-![Screenshot](screenshot.png)  
 
 ## Acknowledgments  
 - Built using [Streamlit](https://streamlit.io/).  
